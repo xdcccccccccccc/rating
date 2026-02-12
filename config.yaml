@@ -30,6 +30,10 @@
       date: "2026-02-09"
       file: "2026-02-09.txt"
       url: "https://ac.nowcoder.com/acm/contest/120564"
+    - name: "2026寒假牛客5"
+      date: "2026-02-11"
+      file: "2026-02-11.txt"
+      url: "https://ac.nowcoder.com/acm/contest/120565"
 - list: "2025 赛季"
   init: '0000-00-00.txt'
   file: "2025-all.json"
